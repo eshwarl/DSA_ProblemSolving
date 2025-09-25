@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0239-sliding-window-maximum) |
 | [0735-asteroid-collision](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0735-asteroid-collision) |
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0735-asteroid-collision](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0735-asteroid-collision) |
 ## Simulation
 |  |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0239-sliding-window-maximum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
