@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0085-maximal-rectangle) |
 | [0239-sliding-window-maximum](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0239-sliding-window-maximum) |
 | [0735-asteroid-collision](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0735-asteroid-collision) |
+| [1036-rotting-oranges](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1036-rotting-oranges) |
 ## Stack
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0085-maximal-rectangle) |
+| [1036-rotting-oranges](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1036-rotting-oranges) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
