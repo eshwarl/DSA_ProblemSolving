@@ -95,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0184-department-highest-salary) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
