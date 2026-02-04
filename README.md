@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0463-island-perimeter) |
 | [0735-asteroid-collision](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0735-asteroid-collision) |
 | [1036-rotting-oranges](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1036-rotting-oranges) |
+| [3637-trionic-array-i](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/3637-trionic-array-i) |
 ## Stack
 |  |
 | ------- |
