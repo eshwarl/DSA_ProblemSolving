@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0085-maximal-rectangle) |
+| [0152-maximum-product-subarray](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0152-maximum-product-subarray) |
 | [0239-sliding-window-maximum](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0239-sliding-window-maximum) |
 | [0419-battleships-in-a-board](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0463-island-perimeter) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0085-maximal-rectangle) |
+| [0152-maximum-product-subarray](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0152-maximum-product-subarray) |
 ## Matrix
 |  |
 | ------- |
