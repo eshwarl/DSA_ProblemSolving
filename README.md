@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0239-sliding-window-maximum) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0463-island-perimeter) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0463-island-perimeter) |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0547-number-of-provinces) |
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0695-max-area-of-island) |
