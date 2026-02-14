@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0239-sliding-window-maximum) |
 | [0419-battleships-in-a-board](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0735-asteroid-collision) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0152-maximum-product-subarray) |
+| [0542-01-matrix](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0542-01-matrix) |
 ## Matrix
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1036-rotting-oranges) |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0733-flood-fill) |
