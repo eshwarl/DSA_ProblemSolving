@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0735-asteroid-collision) |
 | [1036-rotting-oranges](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1036-rotting-oranges) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3637-trionic-array-i](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/3637-trionic-array-i) |
 ## Stack
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0735-asteroid-collision) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Queue
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1036-rotting-oranges) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Depth-First Search
 |  |
 | ------- |
