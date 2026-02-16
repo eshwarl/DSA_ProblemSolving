@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0130-surrounded-regions) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0200-number-of-islands) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
 | ------- |
