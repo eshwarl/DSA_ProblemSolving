@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0239-sliding-window-maximum) |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0009-palindrome-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
