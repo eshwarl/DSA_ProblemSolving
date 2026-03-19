@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0876-middle-of-the-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2074-reverse-nodes-in-even-length-groups) |
@@ -175,5 +176,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
