@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0025-reverse-nodes-in-k-group) |
 | [0142-linked-list-cycle-ii](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0206-reverse-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0876-middle-of-the-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
