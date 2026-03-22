@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0876-middle-of-the-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2074-reverse-nodes-in-even-length-groups) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
