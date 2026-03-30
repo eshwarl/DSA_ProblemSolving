@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0746-min-cost-climbing-stairs) |
 | [1036-rotting-oranges](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1036-rotting-oranges) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3637-trionic-array-i](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/3637-trionic-array-i) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0152-maximum-product-subarray) |
 | [0542-01-matrix](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0746-min-cost-climbing-stairs) |
 ## Matrix
 |  |
 | ------- |
