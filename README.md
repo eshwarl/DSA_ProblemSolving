@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0735-asteroid-collision) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Queue
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0657-robot-return-to-origin](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0657-robot-return-to-origin) |
 ## Backtracking
 |  |
 | ------- |
