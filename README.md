@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0746-min-cost-climbing-stairs) |
 | [1036-rotting-oranges](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1036-rotting-oranges) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3637-trionic-array-i](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/3637-trionic-array-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
