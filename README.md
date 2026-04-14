@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0657-robot-return-to-origin](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0657-robot-return-to-origin) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Backtracking
 |  |
 | ------- |
