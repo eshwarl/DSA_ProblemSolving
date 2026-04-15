@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1036-rotting-oranges) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3637-trionic-array-i](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/3637-trionic-array-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0657-robot-return-to-origin](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0657-robot-return-to-origin) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Backtracking
 |  |
 | ------- |
