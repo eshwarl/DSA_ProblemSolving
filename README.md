@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3488-closest-equal-element-queries](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/3488-closest-equal-element-queries) |
 | [3637-trionic-array-i](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/3637-trionic-array-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0160-intersection-of-two-linked-lists) |
+| [3488-closest-equal-element-queries](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## String
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0287-find-the-duplicate-number) |
+| [3488-closest-equal-element-queries](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/3488-closest-equal-element-queries) |
 ## Linked List
 |  |
 | ------- |
