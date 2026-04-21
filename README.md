@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0746-min-cost-climbing-stairs) |
 | [1036-rotting-oranges](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1036-rotting-oranges) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0733-flood-fill) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0695-max-area-of-island) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Graph Theory
 |  |
 | ------- |
