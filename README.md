@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1036-rotting-oranges) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1848-minimum-distance-to-the-target-element) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3488-closest-equal-element-queries](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/3488-closest-equal-element-queries) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0657-robot-return-to-origin](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0657-robot-return-to-origin) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Backtracking
 |  |
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2069-walking-robot-simulation-ii) |
+## Trie
+|  |
+| ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2452-words-within-two-edits-of-dictionary) |
 <!---LeetCode Topics End-->
