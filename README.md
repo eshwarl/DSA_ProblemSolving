@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2615-sum-of-distances](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2615-sum-of-distances) |
 | [3488-closest-equal-element-queries](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/3488-closest-equal-element-queries) |
 | [3637-trionic-array-i](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/3637-trionic-array-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0160-intersection-of-two-linked-lists) |
+| [2615-sum-of-distances](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2615-sum-of-distances) |
 | [3488-closest-equal-element-queries](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -249,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Prefix Sum
+|  |
+| ------- |
+| [2615-sum-of-distances](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2615-sum-of-distances) |
 <!---LeetCode Topics End-->
