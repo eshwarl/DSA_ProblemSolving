@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0287-find-the-duplicate-number) |
+| [0396-rotate-function](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0396-rotate-function) |
 | [0419-battleships-in-a-board](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0542-01-matrix) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0198-house-robber) |
+| [0396-rotate-function](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0396-rotate-function) |
 | [0542-01-matrix](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0746-min-cost-climbing-stairs) |
 ## Matrix
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0009-palindrome-number) |
+| [0396-rotate-function](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0396-rotate-function) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3783-mirror-distance-of-an-integer](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
