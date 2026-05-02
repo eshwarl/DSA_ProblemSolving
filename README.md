@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0396-rotate-function) |
 | [0542-01-matrix](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0746-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0788-rotated-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0009-palindrome-number) |
 | [0396-rotate-function](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3783-mirror-distance-of-an-integer](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
