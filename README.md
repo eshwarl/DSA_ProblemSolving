@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1861-rotating-the-box](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1861-rotating-the-box) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1036-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1861-rotating-the-box](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1861-rotating-the-box) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Depth-First Search
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0876-middle-of-the-linked-list) |
+| [1861-rotating-the-box](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
