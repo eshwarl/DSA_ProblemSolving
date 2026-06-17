@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0419-battleships-in-a-board) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0463-island-perimeter) |
@@ -294,4 +296,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0796-rotate-string) |
+## Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0111-minimum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
