@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0746-min-cost-climbing-stairs) |
+| [1029-two-city-scheduling](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1029-two-city-scheduling) |
 | [1036-rotting-oranges](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1036-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0148-sort-list) |
+| [1029-two-city-scheduling](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1029-two-city-scheduling) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Merge Sort
 |  |
@@ -308,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0111-minimum-depth-of-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
