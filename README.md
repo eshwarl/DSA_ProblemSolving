@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0463-island-perimeter) |
+| [0543-diameter-of-binary-tree](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0733-flood-fill) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -317,8 +319,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0543-diameter-of-binary-tree) |
 ## Greedy
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1029-two-city-scheduling) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
