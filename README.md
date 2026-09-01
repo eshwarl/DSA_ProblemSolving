@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2615-sum-of-distances](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2615-sum-of-distances) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3488-closest-equal-element-queries](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/3488-closest-equal-element-queries) |
 | [3637-trionic-array-i](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/3637-trionic-array-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0735-asteroid-collision) |
 | [2069-walking-robot-simulation-ii](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2069-walking-robot-simulation-ii) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Queue
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1861-rotating-the-box) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Depth-First Search
 |  |
 | ------- |
