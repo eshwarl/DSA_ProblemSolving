@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0746-min-cost-climbing-stairs) |
+| [0904-fruit-into-baskets](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0904-fruit-into-baskets) |
 | [1029-two-city-scheduling](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1029-two-city-scheduling) |
 | [1036-rotting-oranges](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1036-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0239-sliding-window-maximum) |
+| [0904-fruit-into-baskets](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0904-fruit-into-baskets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0160-intersection-of-two-linked-lists) |
+| [0904-fruit-into-baskets](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0904-fruit-into-baskets) |
 | [2615-sum-of-distances](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2615-sum-of-distances) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3488-closest-equal-element-queries](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/3488-closest-equal-element-queries) |
