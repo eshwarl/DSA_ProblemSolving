@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0904-fruit-into-baskets) |
 ## Heap (Priority Queue)
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0160-intersection-of-two-linked-lists) |
+| [0424-longest-repeating-character-replacement](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0904-fruit-into-baskets) |
 | [2615-sum-of-distances](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/2615-sum-of-distances) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/0796-rotate-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/eshwarl/DSA_ProblemSolving/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
