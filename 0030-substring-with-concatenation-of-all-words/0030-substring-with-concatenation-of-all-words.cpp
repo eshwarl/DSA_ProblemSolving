@@ -6,45 +6,45 @@ public:
         int len = words[0].size();
         int n = words.size();
 
-        unordered_map<string, int> mp;
+        unordered_map<string, int> hash;
 
         for (auto &w : words)
-            mp[w]++;
+            hash[w]++;
 
         for (int offset = 0; offset < len; offset++) {
 
             int l = offset, r = offset, cnt = 0;
-            unordered_map<string, int> seen;
+            auto mp = hash;
 
             while (r + len <= s.size()) {
 
-                string w = s.substr(r, len);
+                string word = s.substr(r, len);
                 r += len;
 
-                if (mp[w] == 0) {
-                    seen.clear();
-                    cnt = 0;
+                if (mp.find(word) == mp.end()) {
+                    mp = hash;
                     l = r;
+                    cnt = 0;
+                    continue;
                 }
-                else {
-                    seen[w]++;
-                    cnt++;
 
-                    while (seen[w] > mp[w]) {
-                        string x = s.substr(l, len);
-                        seen[x]--;
-                        l += len;
-                        cnt--;
-                    }
+                mp[word]--;
+                cnt++;
 
-                    if (cnt == n) {
-                        ans.push_back(l);
+                while (mp[word] < 0) {
+                    string left = s.substr(l, len);
+                    mp[left]++;
+                    l += len;
+                    cnt--;
+                }
 
-                        string x = s.substr(l, len);
-                        seen[x]--;
-                        l += len;
-                        cnt--;
-                    }
+                if (cnt == n) {
+                    ans.push_back(l);
+
+                    string left = s.substr(l, len);
+                    mp[left]++;
+                    l += len;
+                    cnt--;
                 }
             }
         }
